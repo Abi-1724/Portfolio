@@ -1,0 +1,1 @@
+This HTML code creates a structured resume with sections for personal information, education, skills, certifications, internships, and projects. It features a header with a profile photo, contact details, and links to LinkedIn and GitHub. The layout is styled with CSS to ensure a clean, professional appearance, including responsive design for different devices.
